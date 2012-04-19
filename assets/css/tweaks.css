@@ -1,0 +1,7 @@
+div.top-navbar {
+	border-radius: 0px;
+}
+
+.navbar.top-navbar .nav > li > a {
+	font-size: 13px;
+}
